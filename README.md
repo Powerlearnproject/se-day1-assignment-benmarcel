@@ -51,9 +51,38 @@ Requirements Gathering, Analysis, Design, Implementation, Testing, Deployment, M
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Waterfall methodology: is a linear sequential approach to software development,where each phase is completed before moving to the next.
+Agile methodology: Is an iterative incremental approach software development, focusing on flexibilit, collaboration amd continuous improvement. 
+Here's a comparison of the two:
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Waterfall Methodology:
+- Linear, sequential approach
+- Phases: Requirements, Design, Implementation, Testing, Deployment, Maintenance
+- Emphasis on planning, documentation, and predictability
+- Changes are difficult and costly once development begins
 
+Agile Methodology:
+- Iterative, incremental approach
+- Flexible, adaptive, and responsive to change
+- Emphasis on collaboration, customer feedback, and continuous improvement
+- Phases: Iterations (Sprints), with ongoing planning, development, testing, and review
+
+Scenarios for Waterfall:
+- Projects with well-defined, unchanging requirements
+- Regulatory or compliance-driven projects (e.g., finance, healthcare)
+- Small, simple projects with minimal risk
+- Projects with fixed timelines and budgets
+
+Scenarios for Agile:
+- Projects with uncertain, changing, or emerging requirements
+- Innovative or experimental projects (e.g., startups, R&D)
+- Large, complex projects with multiple stakeholders
+- Projects requiring rapid delivery, flexibility, and continuous improvement
+
+Examples:
+
+- Waterfall: Developing a simple e-commerce website with fixed requirements and a tight deadline.
+- Agile: Building a complex, scalable enterprise software system with evolving requirements and multiple stakeholders.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
@@ -71,3 +100,6 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+"What is software engineering"
+"As a primary school teacher what is software engineering"
+"Define Software engineering to 6 years old child with Pictorial illustrations"
